@@ -1,0 +1,22 @@
+1. Overall Performance:
+The dataset shows strong marketing performance with positive ROI across most campaigns.
+
+2. Channel Analysis:
+- Email channel has the highest ROI, making it the most efficient channel.
+- Google generates the highest revenue but comes with higher costs.
+- Facebook shows moderate performance.
+- Instagram has the lowest ROI, indicating underperformance.
+
+3. Campaign Analysis:
+- Top campaigns deliver significantly higher ROI and should be scaled.
+- Low-performing campaigns should be optimized or discontinued.
+
+4. Key Insights:
+- High ROI channels should receive more budget.
+- Inefficient campaigns reduce overall profitability.
+- Strategic reallocation of budget can improve performance.
+
+5. Recommendation:
+- Increase investment in Email and Google campaigns.
+- Reduce spending on Instagram campaigns.
+- Focus on improving CAC.
