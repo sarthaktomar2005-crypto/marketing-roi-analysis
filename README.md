@@ -89,7 +89,7 @@ Companies invest heavily in marketing campaigns but often struggle to determine:
 ---
 
 ## 📸 Dashboard Preview
-   ![Dashboard](images/dashboard.png)
+  ![Dashboard](dashboard.png)
 
 ---
 
